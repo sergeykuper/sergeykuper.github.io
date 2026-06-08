@@ -1,7 +1,9 @@
 # sergeykuper.github.io
 
 # Sergey Kuper - Data Scientist
-![profile picture](assets/img/me26.jpg)
+
+<img src="assets/img/me26.jpg" alt="profile picture" width="100">
+
 ### Education
 MBA, BA
 
